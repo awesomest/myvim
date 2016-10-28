@@ -19,6 +19,7 @@ set title
 syntax on
 " cursorline highlight
 set cursorline
+hi CursorLineNr term=bold ctermfg=11 ctermbg=NONE
 
 " encoding
 set encoding=utf-8
